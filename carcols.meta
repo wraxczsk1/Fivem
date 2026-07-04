@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+<CVehicleModelInfoVarGlobal>
+  <Kits>
+	<Item>
+      <kitName>444_leo2a7v_modkit</kitName>
+      <id value="444" />
+      <kitType>MKT_SPECIAL</kitType>
+      <visibleMods>
+        <Item>
+          <modelName>nocover</modelName>
+          <modShopLabel>WT_APPLIQUE</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>mod_c</Item>
+						<Item>mod_d</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		  <weaponSlot />
+		 </Item>
+		 <Item>
+          <modelName>urbop</modelName>
+          <modShopLabel>WT_URBOP</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>mod_c</Item>
+						<Item>misc_n</Item>
+						<Item>misc_o</Item>
+						<Item>misc_p</Item>
+						<Item>misc_q</Item>
+						<Item>misc_r</Item>
+						<Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		  <weaponSlot />
+		 </Item>
+		 <Item>
+          <modelName>espace_hull</modelName>
+          <modShopLabel>WT_ESPACE</modShopLabel>
+          <linkedModels>
+            <Item>espace_turret</Item>
+						<Item>espace_cannon</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>mod_c</Item>
+						<Item>mod_d</Item>
+						<Item>misc_m</Item>
+						<Item>misc_n</Item>
+						<Item>misc_o</Item>
+						<Item>misc_p</Item>
+						<Item>misc_q</Item>
+						<Item>misc_r</Item>
+						<Item>misc_s</Item>
+						<Item>misc_t</Item>
+						<Item>misc_u</Item>
+						<Item>misc_v</Item>
+						<Item>misc_w</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		  <weaponSlot />
+		 </Item>
+		 <Item>
+          <modelName>camo_hull</modelName>
+          <modShopLabel>WT_CAMONET</modShopLabel>
+          <linkedModels>
+            <Item>camo_turret</Item>
+						<Item>camo_cannon</Item>
+						<Item>camo_cannonbase</Item>
+						<Item>nocover</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>mod_c</Item>
+						<Item>mod_d</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		  <weaponSlot />
+		 </Item>
+		 <Item>
+          <modelName>mirror_up</modelName>
+          <modShopLabel>WT_MIRROR</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_m</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		  <weaponSlot />
+		 </Item>
+		 <Item>
+          <modelName>snowcamo_hull</modelName>
+          <modShopLabel>WT_CAMONET_SNOW</modShopLabel>
+          <linkedModels>
+            <Item>snowcamo_turret</Item>
+						<Item>snowcamo_cannon</Item>
+						<Item>snowcamo_cannonbase</Item>
+						<Item>nocover</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>mod_c</Item>
+						<Item>mod_d</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		  <weaponSlot />
+		 </Item>
+		 <Item>
+          <modelName>mg_base</modelName>
+          <modShopLabel>WT_RC</modShopLabel>
+          <linkedModels>
+            <Item>mg_main</Item>
+						<Item>mg_gun</Item>
+						<Item>mg_recoil</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_ROOF</type>
+          <bone>mod_i</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		  <weaponSlot value="2" />
+        </Item>
+		 <Item>
+          <modelName>apfsds</modelName>
+          <modShopLabel>WT_APFSDS</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		  <weaponSlot value="1" />
+        </Item>
+		 <Item>
+          <modelName>tow</modelName>
+          <modShopLabel>WT_TOW</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+		  <weaponSlot />
+		 </Item>
+      </visibleMods>
+	  <linkMods>
+		<Item>
+          <modelName>camo_turret</modelName>
+          <bone>mod_a</bone>
+          <turnOffExtra value="false" />
+        </Item>
+				<Item>
+          <modelName>camo_cannon</modelName>
+          <bone>mod_e</bone>
+          <turnOffExtra value="false" />
+        </Item>
+				<Item>
+          <modelName>camo_cannonbase</modelName>
+          <bone>mod_b</bone>
+          <turnOffExtra value="false" />
+        </Item>
+				<Item>
+          <modelName>espace_turret</modelName>
+          <bone>mod_a</bone>
+          <turnOffExtra value="false" />
+        </Item>
+				<Item>
+          <modelName>espace_cannon</modelName>
+          <bone>mod_b</bone>
+          <turnOffExtra value="false" />
+        </Item>
+				<Item>
+          <modelName>nocover</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+				<Item>
+          <modelName>snowcamo_turret</modelName>
+          <bone>mod_a</bone>
+          <turnOffExtra value="false" />
+        </Item>
+				<Item>
+          <modelName>snowcamo_cannon</modelName>
+          <bone>mod_e</bone>
+          <turnOffExtra value="false" />
+        </Item>
+				<Item>
+          <modelName>snowcamo_cannonbase</modelName>
+          <bone>mod_b</bone>
+          <turnOffExtra value="false" />
+        </Item>
+				<Item>
+          <modelName>mg_main</modelName>
+          <bone>mod_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+				<Item>
+          <modelName>mg_gun</modelName>
+          <bone>mod_g</bone>
+          <turnOffExtra value="false" />
+        </Item>
+				<Item>
+          <modelName>mg_recoil</modelName>
+          <bone>mod_h</bone>
+          <turnOffExtra value="false" />
+        </Item>
+	  </linkMods>
+      <slotNames>      
+        <Item>
+          <slot>VMT_SKIRT</slot>
+          <name>LEO_ARMOR</name>
+        </Item>
+				<Item>
+          <slot>VMT_BUMPER_F</slot>
+          <name>LEO_APPLIQUE</name>
+        </Item>
+				<Item>
+          <slot>VMT_BUMPER_R</slot>
+          <name>LEO_EXTRAS</name>
+        </Item>
+				<Item>
+          <slot>VMT_ROOF</slot>
+          <name>TOP_SWEAPON</name>
+        </Item>
+		<Item>
+          <slot>VMT_CHASSIS</slot>
+          <name>TOP_PWEAPON</name>
+        </Item>
+      </slotNames>
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="75" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="65" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>  
+      </statMods>
+      <slotNames>      
+        <Item>
+          <slot>VMT_CHASSIS</slot>
+          <name>LEO_ARMOR</name>
+        </Item>
+				<Item>
+          <slot>VMT_BUMPER_F</slot>
+          <name>LEO_APPLIQUE</name>
+        </Item>  
+      </slotNames>
+      <liveryNames />
+    </Item>
+  </Kits> 
+    <Lights />
+</CVehicleModelInfoVarGlobal>
